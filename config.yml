@@ -1,4 +1,4 @@
-baseURL: https://github.com/FarawayDreams/myblog
+baseURL: https://FarawayDreams.github.io/myblog
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
